@@ -1,4 +1,4 @@
-# 02 Flashing the Heater LED
+# Task 1: Flashing heater LEDs
 
 In the SunbYte project, we use resistive heaters to keep spacecraft components from freezing in the extreme cold of near-space. For this workshop, we will use a **Red LED** to represent our heater. When the LED is on, the "heater" is active!
 
