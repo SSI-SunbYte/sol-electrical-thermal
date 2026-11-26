@@ -1,4 +1,4 @@
-# 04 Using Serial Monitor & Finishing Up
+# Task 3: Using Serial Monitor & Finishing Up
 
 Now that our Arduino is reading the thermistor, it's time to create our telemetry dashboard! In mission control, engineers don't just look at scrolling numbers; they look at graphs to see how systems behave over time.
 
