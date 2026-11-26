@@ -1,4 +1,5 @@
-# 03 Building the Thermistor Circuit
+# Task 2: Building the Thermistor Circuit
+
 
 In space, temperatures can fluctuate by hundreds of degrees. To prevent our spacecraft from freezing, we need a way to measure the temperature so we know when to turn our "heater" (the LED) on. 
 
